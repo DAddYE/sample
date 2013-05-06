@@ -1,0 +1,6 @@
+name: Your New Jekyll Site
+pygments: false
+assets:
+  compress:
+    css: sass
+    js: uglifier
